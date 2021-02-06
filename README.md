@@ -1,5 +1,5 @@
-#Bachelor Thesis: Factors of Social Media User Engagement: A comparative Analysis in the Banking Industry
-##Daniel Guggisberg
+# Bachelor Thesis: Factors of Social Media User Engagement: A comparative Analysis in the Banking Industry
+## Daniel Guggisberg
 
 Code =>
  Jupyter Lab was used to write the Python code. Each step loads previous and saves results.
